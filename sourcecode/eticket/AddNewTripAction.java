@@ -11,9 +11,7 @@ import org.apache.struts.action.ActionForward;
 import org.apache.struts.action.ActionMapping;
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-15-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action validate="true"
  */
