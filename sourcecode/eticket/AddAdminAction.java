@@ -14,9 +14,7 @@ import org.apache.struts.action.ActionMapping;
 import org.apache.struts.validator.DynaValidatorForm;
 
 /** 
- * MyEclipse Struts
- * Creation date: 12-02-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action path="/AddAdmin" name="adminform" scope="request" validate="true"
  * @struts:action-forward name="success" path="/addadminconf.jsp"
