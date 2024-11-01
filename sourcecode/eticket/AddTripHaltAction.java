@@ -13,9 +13,7 @@ import org.apache.struts.action.ActionMapping;
 import org.apache.struts.action.DynaActionForm;
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-23-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action path="/AddTripHalt" name="triphaltform" scope="request" validate="true"
  * @struts:action-forward name="success" path="/businsertconf.jsp"
