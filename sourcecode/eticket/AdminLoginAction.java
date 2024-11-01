@@ -18,9 +18,7 @@ import org.apache.struts.action.ActionMessages;
 
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-01-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action path="/Adminlogin" name="loginBean" input="/Adminlogin.jsp" scope="request" validate="true"
  * @struts:action-forward name="success" path="/Index.jsp"
