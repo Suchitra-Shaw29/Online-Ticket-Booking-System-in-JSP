@@ -16,9 +16,7 @@ import org.apache.struts.action.ActionMapping;
 import org.apache.struts.validator.DynaValidatorForm;
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-13-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action path="/AddLocation" name="addloc" scope="request" validate="true"
  * @struts:action-forward name="success" path="/tripdetails.jsp"
