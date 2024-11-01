@@ -19,9 +19,7 @@ import org.apache.struts.action.ActionMessage;
 import org.apache.struts.action.ActionMessages;
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-01-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action path="/Agentlogin" name="loginBean" scope="request" validate="true"
  */
