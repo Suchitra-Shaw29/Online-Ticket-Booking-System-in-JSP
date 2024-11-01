@@ -15,9 +15,7 @@ import org.apache.struts.action.ActionForward;
 import org.apache.struts.action.ActionMapping;
 
 /** 
- * MyEclipse Struts
- * Creation date: 12-02-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action validate="true"
  * @struts:action-forward name="success" path="/allbustypes.jsp"
