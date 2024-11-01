@@ -13,9 +13,7 @@ import org.apache.struts.action.ActionForward;
 import org.apache.struts.action.ActionMapping;
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-01-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action path="/AgentReg" name="Agentreg" input="/AgentRegistration.jsp" scope="request" validate="true"
  * @struts:action-forward name="success" path="/AgentIndex.jsp"
