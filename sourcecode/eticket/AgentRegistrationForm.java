@@ -8,9 +8,7 @@ import org.apache.struts.validator.ValidatorForm;
 
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-01-2006
- * 
+ 
  * XDoclet definition:
  * @struts:form name="agentReg"
  */
