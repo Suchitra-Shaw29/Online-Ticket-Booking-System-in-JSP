@@ -13,9 +13,7 @@ import org.apache.struts.action.ActionMapping;
 import org.apache.struts.validator.DynaValidatorForm;
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-21-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action path="/AddOffer" name="Offer" scope="request" validate="true"
  * @struts:action-forward name="success" path="/.jsp"
