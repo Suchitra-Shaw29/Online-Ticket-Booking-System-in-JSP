@@ -8,9 +8,7 @@ import org.apache.struts.validator.*;
 import org.apache.struts.action.*;
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-07-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action path="/Addbus" name="seeit" scope="request" validate="true"
  */
