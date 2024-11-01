@@ -15,9 +15,7 @@ import org.apache.struts.action.ActionMessages;
 import org.apache.struts.validator.DynaValidatorForm;
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-13-2006
- * 
+ 
  * XDoclet definition:
  * @struts:action path="/AddTrip" name="tripform" scope="request" validate="true"
  * @struts:action-forward name="success" path="/"
