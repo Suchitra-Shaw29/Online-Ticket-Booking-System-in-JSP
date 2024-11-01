@@ -15,9 +15,7 @@ import java.util.*;
 import eticket.BookForm;
 
 /** 
- * MyEclipse Struts
- * Creation date: 04-09-2007
- * 
+
  * XDoclet definition:
  * @struts:action path="/bookAg" name="bform" scope="request" validate="true"
  * @struts:action-forward name="suc" path="bookticket.jsp"
