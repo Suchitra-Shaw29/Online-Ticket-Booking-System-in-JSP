@@ -15,9 +15,7 @@ import org.apache.struts.action.ActionMapping;
 import org.apache.struts.validator.DynaValidatorForm;
 
 /** 
- * MyEclipse Struts
- * Creation date: 11-11-2006
- * 
+
  * XDoclet definition:
  * @struts:action path="/AddBusType" name="addbustypeform" scope="request" validate="true"
  */
